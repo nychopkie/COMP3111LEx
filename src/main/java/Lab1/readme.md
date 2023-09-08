@@ -5,4 +5,4 @@
 * intelllij
 
 ## Screenshot:
-![the screenshot of the intellij interface task 3](../../../Lab1.png)
+![the screenshot of the intellij interface task 3](../../../lab1.png)
