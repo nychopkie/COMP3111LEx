@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035dcf80-66ea-412b-9d22-f1501eb67e2e" name="Changes" comment="added report heading" />
+    <list default="true" id="035dcf80-66ea-412b-9d22-f1501eb67e2e" name="Changes" comment="added 3 push lines">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/mainApp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/mainApp1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nychopkie"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9d1bf34e-412f-41ea-88ec-d1a5345f4a13" />
+        <option name="url" value="https://github.com/nychopkie/COMP3111LEx.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -71,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694162489429</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added 3 push lines">
+      <option name="closed" value="true" />
+      <created>1694162885896</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694162885896</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +112,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="added report heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="added report heading" />
+    <MESSAGE value="added 3 push lines" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 3 push lines" />
   </component>
 </project>
