@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035dcf80-66ea-412b-9d22-f1501eb67e2e" name="Changes" comment="changed the screenshot">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/readme.md" afterDir="false" />
+    <list default="true" id="035dcf80-66ea-412b-9d22-f1501eb67e2e" name="Changes" comment="amended readme.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,11 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -136,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694604265867</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="amended readme.md">
+      <option name="closed" value="true" />
+      <created>1694604376186</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694604376186</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +169,7 @@
     <MESSAGE value="changed output line 5" />
     <MESSAGE value="added the markdown file" />
     <MESSAGE value="changed the screenshot" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed the screenshot" />
+    <MESSAGE value="amended readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="amended readme.md" />
   </component>
 </project>
